@@ -33,7 +33,7 @@ Ensure wired connection between these components.
 3. Always ping and trace the packet to ensure proper connection between networks
 
 ### After fixing above complications, I have successfully completed proper connection between networks.
-✅ Connected the Home Gateway to the **Router's network
-✅ Made sure all devices are in the **same subnet
-✅ Got the Tablet and IoT devices reaching the remote IoT Server
-✅ Registered devices — mission complete! 🚀
+1. ✅ Connected the Home Gateway to the **Router's network
+2. ✅ Made sure all devices are in the **same subnet
+3. ✅ Got the Tablet and IoT devices reaching the remote IoT Server
+4. ✅ Registered devices — mission complete! 🚀
